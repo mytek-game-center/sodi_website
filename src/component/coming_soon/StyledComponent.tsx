@@ -7,27 +7,43 @@ const FullWindow = styled.div`
   min-height: 100vh;
   background-image: url(${under_construction_1});
   text-align: center;
-  margin: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   font-family: Agrandir-GrandBlack, sans-serif;
 `;
 
-const ComingSoonWindow = styled.div`
-    display: inline-block;
+const LogoWindow = styled.div`
+  margin-top: 50px;
+  display: inline-block;
   text-align: center;
-  margin: auto;
   align-items: center;
   justify-content: center;
 `;
 
 const Logo = styled.div`
-    display: inline-block;
+  background-color: rgb(234 234 234 / 40%);
+  border-radius: 300px;
 `;
 
-const Slogan = styled.div`
-  display: inline-block;
+const Slogan = styled.p`
+  font-size: 28px;
+  color: white;
+  margin-right: -150px;
+  margin-top: 5px;
 `;
 
-export {FullWindow,Logo,Slogan,ComingSoonWindow}
+const ComingSoonWindow = styled.div`
+  display: block;
+  margin-top: 280px;
+`;
+
+const HeaderText = styled.p`
+  color: white;
+  font-size: 32px;
+`;
+const FooterText = styled.div`
+  color: khaki;
+  font-size: 24px;
+  margin-top: -30px;
+  padding-left: 400px;
+`;
+
+export {FullWindow,Logo,Slogan,LogoWindow,ComingSoonWindow,HeaderText,FooterText}
