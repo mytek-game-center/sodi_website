@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sodi_website/static/css/main.b5655368.css",
+    "main.js": "/sodi_website/static/js/main.4eb1b4a8.js",
+    "static/js/787.4bbd3845.chunk.js": "/sodi_website/static/js/787.4bbd3845.chunk.js",
+    "static/media/under_construction_2.gif": "/sodi_website/static/media/under_construction_2.6bb4c75f981b34fef8e9.gif",
+    "static/media/Agrandir-GrandBlack.ttf": "/sodi_website/static/media/Agrandir-GrandBlack.f7ae52dcb6c559c2d1d8.ttf",
+    "static/media/SODI_studio_black.png": "/sodi_website/static/media/SODI_studio_black.0881ff5cfcc7120a997b.png",
+    "index.html": "/sodi_website/index.html",
+    "main.b5655368.css.map": "/sodi_website/static/css/main.b5655368.css.map",
+    "main.4eb1b4a8.js.map": "/sodi_website/static/js/main.4eb1b4a8.js.map",
+    "787.4bbd3845.chunk.js.map": "/sodi_website/static/js/787.4bbd3845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5655368.css",
+    "static/js/main.4eb1b4a8.js"
+  ]
+}
